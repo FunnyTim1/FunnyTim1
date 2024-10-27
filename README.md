@@ -6,6 +6,6 @@ About me
 
 
 ### Lanlanguages ​​and Tools
-![Flutter](https://img.shields.io/badge/-C%2b%2b-4b0082?style=for-the-badge&logo=flutter&logoColor=408DD2)
+![Flutter](https://img.shields.io/badge/-C++-162949?style=for-the-badge&logo=C%2b%2b&logoColor=408DD2)
 
 Follow me
