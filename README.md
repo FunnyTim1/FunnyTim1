@@ -1,4 +1,4 @@
-[![Header](https://github.com/FunnyTim1/FunnyTim1/blob/main/assets/header.png)]
+![Header](https://github.com/FunnyTim1/FunnyTim1/blob/main/assets/header.png)
 
 
 About me
