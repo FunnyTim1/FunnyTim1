@@ -15,3 +15,4 @@
 
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-162949?style=for-the-badge&logo=vk&logoColor=0076f5)](https://vk.com/na_pozitiv4ik)
+[![Telegram](https://img.shields.io/badge/-Telegram-162949?style=for-the-badge&logo=Telegram&logoColor=33a7e9)](https://t.me/na_pozitiv4ik)
