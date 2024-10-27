@@ -1,9 +1,6 @@
 ![Header](https://github.com/FunnyTim1/FunnyTim1/blob/main/assets/header.png)
 
-
-About me
-🌱 I'm currently learning testing, web app testing, basic programming languages
-
+## I am a beginner tester who strives for knowledge and experience
 
 ### Lanlanguages ​​and Tools
 ![Flutter](https://img.shields.io/badge/-C++-162949?style=for-the-badge&logo=C%2b%2b&logoColor=408DD2)
